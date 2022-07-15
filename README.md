@@ -21,7 +21,7 @@ Average reading score,
 % passing math (the percentage of students who passed math),
 % passing reading (the percentage of students who passed reading),
 % overall passing (the percentage of students who passed math AND reading).*
-- Created a DataFrame that highlights the top-5 performing schools based on overall performance and including the following metrics: 
+- created a DataFrame that highlights the top-5 performing schools based on overall performance and including the following metrics: 
 *School type,
 Total students,
 Total school budget,
@@ -41,13 +41,13 @@ Average reading score,
 % passing math (the percentage of students who passed math),
 % passing reading (the percentage of students who passed reading),
 % overall passing (the percentage of students who passed math AND reading).*
-- Created a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
--Created a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
--Created a table that breaks down school performance based on average spending ranges (per student), including the following metrics: *Average math score, Average reading score,
+- created a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+- created a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+- created a table that breaks down school performance based on average spending ranges (per student), including the following metrics: *Average math score, Average reading score,
 % passing math (the percentage of students who passed math),
 % passing reading (the percentage of students who passed reading), % overall passing (the percentage of students who passed math AND reading).*
-- Created a table that breaks down school performance based on school size (small, medium, or large).
-- Created a table that breaks down school performance based on school type (district or charter).
+- created a table that breaks down school performance based on school size (small, medium, or large).
+- created a table that breaks down school performance based on school type (district or charter).
 
 **Reference:**
 
